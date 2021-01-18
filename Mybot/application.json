@@ -1,0 +1,17 @@
+{
+  /* TODO: Put your chatbot identifier and accessKey bellow. */
+  "identifier": "valtudeschatbot1",
+  "accessKey": "NTB0TGlYUEY4NlBxVUpzSHk2bHI=",
+  "messageReceivers": [
+    {
+      "type": "PlainTextMessageReceiver",
+      "mediaType": "text/plain"
+    }
+  ],
+  "settings": {
+    "key1": "value1",
+    "key2": 2
+  },
+  "settingsType": "Settings",
+  "startupType": "Startup"
+}
